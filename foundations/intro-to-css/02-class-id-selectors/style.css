@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.one, .three, .five {
+    background-color: #fda7a8;
+    font-family: Verdana, DejaVu Sans, sans-serif;      
+}/* Add CSS Styling */
+#two {
+    color: blue;
+    font-size: 36px;
+}
+.three {
+    font-size: 24px;
+}
+#four {
+    background-color: #85fd86;
+    font-size: 36px;
+    font-weight: bold;
+}
